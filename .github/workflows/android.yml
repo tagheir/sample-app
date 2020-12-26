@@ -35,5 +35,5 @@ jobs:
         with:
           flutter-version: '1.12.13+hotfix.8'
           
-      - run: flutter pub get
-      - run: flutter build apk
+      #- run: flutter pub get
+      #- run: flutter build apk
